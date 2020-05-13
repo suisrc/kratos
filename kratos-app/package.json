@@ -1,7 +1,7 @@
 {
   "name": "kratos",
   "version": "1.0.0",
-  "description": "k8s3 auth2 app",
+  "description": "",
   "private": true,
   "egg": {
     "declarations": true
@@ -41,6 +41,6 @@
     "type": "git",
     "url": ""
   },
-  "author": "suisrc",
+  "author": "suisrc@aliyun.com",
   "license": "MIT"
 }

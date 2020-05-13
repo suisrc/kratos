@@ -21,8 +21,9 @@ umi dev
 ```
 插件安装
 ```
+HOST=0.0.0.0 UMI_UI_PORT=443
 tyarn add @umijs/preset-ui -D
-tyarn add @umijs/plugin-ui -D
+#tyarn add @umijs/plugin-ui -D
 ```
 
 ### 脚手架安装

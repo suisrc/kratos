@@ -1,6 +1,6 @@
 # kratos
 
-k8s3 auth2 app
+
 
 ## QuickStart
 

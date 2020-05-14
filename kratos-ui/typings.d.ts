@@ -1,3 +1,4 @@
+declare module 'classnames';
 declare module '*.css';
 declare module '*.less';
 declare module "*.png";
